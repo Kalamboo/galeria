@@ -2,4 +2,5 @@ asd
 
 egy lent
 ketto lent
-harom lent
+1 fent
+2 fent
