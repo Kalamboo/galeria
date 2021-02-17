@@ -84,3 +84,24 @@ article div{
 article div img{
     width: 100%;
 }
+
+@media screen and (max-width: 850px){
+    main{
+        flex-direction: column;
+    }
+    article{
+        order: 1;
+    }
+}
+
+@media screen and (max-width: 514px){
+    article{
+        flex-direction: column;
+    }
+    nav{
+        flex-direction: column;
+    }
+    nav ul{
+        flex-direction: column;
+    }
+}
